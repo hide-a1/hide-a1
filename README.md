@@ -1,4 +1,4 @@
-### Hi there 👋
+[![hide-a1's github stats](https://github-readme-stats.vercel.app/api?username=hide-a1)](https://github.com/hide-a1/github-readme-stats)
 
 <!--
 **hide-a1/hide-a1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
